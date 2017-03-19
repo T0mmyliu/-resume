@@ -11,7 +11,7 @@
 #### 依图科技 工程部 SaaS组 实习生 
 <p>2016.12 - 至今
 
-- 开发restful API 接口
+- 开发RESTful API 接口
 - 开发HTTP测试工具
 
 #### 饿了么 框架工具部 Python组 暑期实习生
